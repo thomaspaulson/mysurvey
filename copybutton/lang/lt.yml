@@ -1,0 +1,7 @@
+lt:
+  GridAction:
+    COPY_DESCRIPTION: 'Kopijuoti'
+    Copy: 'Kopijuoti'
+
+  GridFieldAction_Copy:
+    CreatePermissionsFailure: 'Neturite teisių sukurti/kopijuoti įrašą'
